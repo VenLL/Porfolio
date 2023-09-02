@@ -2,7 +2,7 @@
 I'm a grad student at CMU who adores dogs.
 
 # **Portfolio**
-This is where the cool work will go for the Telling Stories With Data course at CMU.
+This is where the cool work will go for the Telling Stories With Data course.
 ## Assignment 1
 ## Assignment 2
 ## Assignment 3
